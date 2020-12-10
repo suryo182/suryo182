@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+**I'm Frontend Developer
+
+- 🌱 I’m currently learning Javascript
+
+![github stats](https://github-readme-stats.vercel.app/api?username=suryo182&show_icons=true&layout=compact)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=suryo182&layout=compact)
+
 <!--
 **suryo182/suryo182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
