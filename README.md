@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-**I'm Frontend Developer**
+**I'm a Frontend Developer**
 
 - 🌱 I’m currently learning Javascript
+- 🔭 I’m currently focusing on React
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=suryo182&show_icons=true&layout=compact)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=suryo182&layout=compact)
